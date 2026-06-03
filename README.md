@@ -1,0 +1,2 @@
+# Active-Directory-Hybrid-Identity-Lab-Windows-Server-2025-Microsoft-Entra-ID-Entra-Connect
+Built a Hybrid Identity Lab using Windows Server 2022, Active Directory, DNS, Microsoft Entra ID, and Microsoft Entra Connect in VMware. Configured a Domain Controller, OUs, users, security groups, Windows 11 domain integration, and synchronized on-premises identities with Microsoft Entra ID using Password Hash Synchronization.
